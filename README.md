@@ -1,4 +1,4 @@
-<b>This on the screen is Calculator Project using HTML CSS and JS<b/>
+<b>This on the screen is Calculator Project using HTML CSS and JS</b>
 
 
 usage: git [-v | --version] [-h | --help] [-C <path>] [-c <name>=<value>]
